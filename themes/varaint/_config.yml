@@ -6,8 +6,8 @@ favicon: /yx.png
 # author headimg
 headimg: /favicon.png
 # author info
-name: justpsvm
-description: Stay Hungry,Stay Foolish.
+name: 语者
+description: Every thing will be fine
 
 # search
 search: 
@@ -34,16 +34,17 @@ comments:
 
 # accounts support weibo/github/zhihu/twitter/douban 
 # display to former three
+#社区地址
 social: 
   -
-    name: weibo
-    link: http://weibo.com/
+    name: yuque
+    link: https://www.yuque.com/yuque_iq
   -
     name: github
-    link: https://github.com/
-  -
-    name: zhihu
-    link: https://www.zhihu.com/
+    link: https://github.com/lanxiaozhu?tab=repositories
+  # -
+  #   name: zhihu
+  #   link: https://www.zhihu.com/
 #  -
 #    name: twitter
 #    link: 

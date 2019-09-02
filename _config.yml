@@ -4,13 +4,13 @@
 
 # 网站标题
 title: 订阅虚拟人生
-subtitle:
-description:
+subtitle: 爱好游戏的码农   #网站副标题
+description: 以梦为马，明日天涯。。。  #网站描述
 keywords:
 #作者
 author: 语者
-language:
-timezone:
+language: zh-Hans  #网站使用的语言 
+timezone:  #网站时区。Hexo 默认使用您电脑的时区
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
